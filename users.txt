@@ -1,0 +1,3 @@
+qamarLibrarian,admin1
+aroub,1234
+alanood,pass
